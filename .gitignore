@@ -15,3 +15,4 @@
 # vendor/
 
 token.txt
+.DS_Store
