@@ -42,3 +42,15 @@ discord.py(v2.0を予定)
 
 * このリポジトリのIssueに
 * [Criticaのアンケートフォームに](https://critica.uno/197665)
+
+## 起動方法
+
+1. pipでパッケージをインストールする。
+
+```cmd
+pip install -r requirements.txt
+```
+
+2. token.txtを作成し、テキストファイルの中にトークンを入れる
+
+3. 起動
