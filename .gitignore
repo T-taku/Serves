@@ -16,3 +16,4 @@
 
 token.txt
 .DS_Store
+*.pyc
